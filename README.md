@@ -2,7 +2,7 @@
 
 Forked from https://github.com/simonw/til and changed for my own usage.
 
-<!-- count starts -->15<!-- count ends --> TILs so far.
+<!-- count starts -->15<!-- count ends --> TILs added so far.
 
 <!-- index starts -->
 ## github-actions
