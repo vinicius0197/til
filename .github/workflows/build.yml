@@ -52,7 +52,7 @@ jobs:
       run: |-
         datasette publish now til.db \
           --token $NOW_TOKEN \
-          --project simon-til \
+          --project til \
           --metadata metadata.yaml \
           --install py-gfm \
           --install datasette-render-markdown \
