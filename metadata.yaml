@@ -1,6 +1,6 @@
 title: Today I Learned
-about: simonw/til
-about_url: https://github.com/simonw/til
+about: vinicius0197/til
+about_url: https://github.com/vinicius0197/til
 databases:
   til:
     queries:
@@ -21,7 +21,7 @@ databases:
           til_fts.rank limit 20
       feed: |-
         SELECT
-          'tag:til.simonwillison.net,' || path as atom_id,
+          'tag:til-orpin.now.sh/,' || path as atom_id,
           title as atom_title,
           created_utc as atom_updated,
           render_markdown(body) as atom_content_html
