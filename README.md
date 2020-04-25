@@ -31,12 +31,6 @@ Forked from https://github.com/simonw/til and changed for my own usage.
 
 * [Using macOS stickies to display a workshop link on the screen](https://github.com/vinicius0197/til/blob/master/presenting/stickies-for-workshop-links.md) - 2020-04-20
 
-## macos
-
-* [Running pip install -e .[test] in zsh on macOS Catalina](https://github.com/vinicius0197/til/blob/master/macos/zsh-pip-install.md) - 2020-04-21
-* [Get Skitch working on Catalina](https://github.com/vinicius0197/til/blob/master/macos/skitch-catalina.md) - 2020-04-21
-* [Close terminal window on Ctrl+D for macOS](https://github.com/vinicius0197/til/blob/master/macos/close-terminal-on-ctrl-d.md) - 2020-04-21
-
 ## tailscale
 
 * [Restricting SSH connections to devices within a Tailscale network](https://github.com/vinicius0197/til/blob/master/tailscale/lock-down-sshd.md) - 2020-04-23
