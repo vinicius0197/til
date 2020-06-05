@@ -2,7 +2,7 @@
 
 Forked from https://github.com/simonw/til and changed for my own usage.
 
-<!-- count starts -->3<!-- count ends --> TILs added so far.
+<!-- count starts -->4<!-- count ends --> TILs added so far.
 
 <!-- index starts -->
 ## javascript
@@ -13,4 +13,8 @@ Forked from https://github.com/simonw/til and changed for my own usage.
 ## xtext
 
 * [In Xtend, the triple equal is equivalent to Java object reference equality:](https://github.com/vinicius0197/til/blob/master/xtext/object-reference-xtend.md) - 2020-04-27
+
+## css
+
+* [Finding CSS layout issues](https://github.com/vinicius0197/til/blob/master/css/finding-css-layout-issues.md) - 2020-06-05
 <!-- index ends -->
