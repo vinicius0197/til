@@ -2,7 +2,7 @@
 
 Forked from https://github.com/simonw/til and changed for my own usage.
 
-<!-- count starts -->6<!-- count ends --> TILs added so far.
+<!-- count starts -->7<!-- count ends --> TILs added so far.
 
 <!-- index starts -->
 ## javascript
@@ -25,4 +25,8 @@ Forked from https://github.com/simonw/til and changed for my own usage.
 ## emacs
 
 * [Summary of Emacs commands](https://github.com/vinicius0197/til/blob/master/emacs/commands.md) - 2020-07-01
+
+## deploy
+
+* [Avoid tons of commits when deploying](https://github.com/vinicius0197/til/blob/master/deploy/avoiding-tons-of-commits.md) - 2020-07-01
 <!-- index ends -->
