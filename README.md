@@ -2,7 +2,7 @@
 
 Forked from https://github.com/simonw/til and changed for my own usage.
 
-<!-- count starts -->4<!-- count ends --> TILs added so far.
+<!-- count starts -->5<!-- count ends --> TILs added so far.
 
 <!-- index starts -->
 ## javascript
@@ -17,4 +17,8 @@ Forked from https://github.com/simonw/til and changed for my own usage.
 ## css
 
 * [Finding CSS layout issues](https://github.com/vinicius0197/til/blob/master/css/finding-css-layout-issues.md) - 2020-06-05
+
+## bash
+
+* [If you want to pipe the output of some shell command into another shell command, you can use the following syntax:](https://github.com/vinicius0197/til/blob/master/bash/output-of-commands-as-arguments.md) - 2020-06-30
 <!-- index ends -->
